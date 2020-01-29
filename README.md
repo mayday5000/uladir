@@ -8,11 +8,14 @@
 FAT12 5 1/4 Diskette file listing. Shows attributes and hidden files.
 
 Output format:
+--------------
 
 Attrib Name     Ext   Id          Size Clust   Date     Time   Accessed Checksum
 
 rhsadv 12345678.123 Del LFN 1123123456 65535 18-10-79 12.12.12 18-10-79
 
+Attributes:
+-----------
 
 id_lfn       DB 'LFN    '
 
