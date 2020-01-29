@@ -5,7 +5,7 @@
 
 ;-----------------------------------------------------------------------------
 
-FAT12 5 1/4 Diskette file listing. Shows attributes and hidden files.
+FAT12 5 1/4 Diskette file listing. Shows attributes and deleted files.
 
 Output format:
 --------------
