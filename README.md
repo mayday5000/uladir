@@ -1,11 +1,9 @@
 # uladir
-;-----------------------------------------------------------------------------
 
-;              Creado por Damian Andres Ulanowicz (2003).
 
-;-----------------------------------------------------------------------------
+FAT12 5 1/4 Diskette file listing POC using Intel 8088 compatible assembly (the first PC). Shows attributes and deleted files.
+2003 - Damian Andres Ulanowicz.
 
-FAT12 5 1/4 Diskette file listing. Shows attributes and deleted files.
 
 Output format:
 --------------
